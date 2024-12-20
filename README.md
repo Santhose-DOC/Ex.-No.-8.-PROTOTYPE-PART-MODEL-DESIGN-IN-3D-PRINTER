@@ -47,8 +47,15 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![Screenshot 2024-12-07 115956](https://github.com/user-attachments/assets/e9401102-4b67-4803-83af-1eeade256b25)
+
+
+![Screenshot 2024-12-07 120141](https://github.com/user-attachments/assets/fb3f2106-3491-463c-a5af-b383a0cdfa46)
+
+
+### Name: Santhose Arockiaraj J
+
+### Register Number: 24900171
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
